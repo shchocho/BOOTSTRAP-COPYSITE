@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+.bg{
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-height: 600px;
+  margin: 0 auto;
+
+}
+
+.bg-right{
+  background-position:right;
+
+}
+
+.bg-cover{
+  background-size: cover;
+}
+
+.color-white{
+  color: white!important;
+}
+
+.radius{
+  border-radius: 20px;
+}
+
+.btn-size{
+  width: 120px;
+  height: 40px;
+}
